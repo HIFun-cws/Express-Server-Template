@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "target": "ES3",
+        "module": "commonjs",
+        "outDir": "./dist",
+        "baseUrl": "./src"
+    },
+    "include": [
+        "src/**/*.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
